@@ -77,11 +77,16 @@ Allow you to ask follow-up questions, such as:
 Welcome to the Gym Recommendation Chatbot!
 I'll help you find the perfect workout plan based on your profile.
 
-What is your age? 24
-What is your gender? (m/f): m
-What is your weight in pounds? 160
-What is your height? (feet): 5
-Inches: 10
+What is your age? 
+24
+What is your gender? (m/f): 
+m
+What is your weight in pounds? 
+160
+What is your height? (feet): 
+5
+Inches: 
+10
 ...
 
 Analyzing your profile...
