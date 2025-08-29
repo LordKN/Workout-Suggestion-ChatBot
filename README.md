@@ -74,19 +74,14 @@ Allow you to ask follow-up questions, such as:
 “How much water should I drink daily?”
 
 ## 5. Example Run
-Welcome to the Gym Recommendation Chatbot!
-I'll help you find the perfect workout plan based on your profile.
+```text
+Welcome to the Gym Recommendation Chatbot! I'll help you find the perfect workout plan based on your profile.
 
-What is your age? 
-24
-What is your gender? (m/f): 
-m
-What is your weight in pounds? 
-160
-What is your height? (feet): 
-5
-Inches: 
-10
+What is your age? 24
+What is your gender? (m/f): m
+What is your weight in pounds? 160
+What is your height? (feet): 5
+Inches: 10
 ...
 
 Analyzing your profile...
@@ -94,9 +89,10 @@ Based on your profile, you would typically burn 420.55 calories per session.
 Your workout style matches with: HIIT
 Your experience level appears to be: 2 (Intermediate)
 
-## YOUR PERSONALIZED HIIT WORKOUT PLAN
+YOUR PERSONALIZED HIIT WORKOUT PLAN
 ------------------------------------------------------
 Experience Level: Intermediate
 Recommended Sessions: 4 days per week
 Estimated Calories Burned: 420 per session
 Hydration Recommendation: 2.2 liters (~9.3 cups per day)
+
